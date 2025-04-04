@@ -1,0 +1,86 @@
+📚 Step 1: Data Preprocessing and Feature Engineering
+Train Test Split with Python Machine Learning (Scikit-Learn) (8:06)
+
+Python Feature Scaling in SciKit-Learn (Normalization vs Standardization) (11:59)
+
+One Hot Encoder with Python Machine Learning (Scikit-Learn) (9:03)
+
+Ordinal Encoder with Python Machine Learning (Scikit-Learn) (6:19)
+
+Handling Missing Data in Python: Simple Imputer in Python for Machine Learning (14:32)
+
+Simplify Data Preprocessing with Python's Column Transformer: A Step-by-Step Guide (13:52)
+
+🤖 Step 2: Basic Machine Learning Models
+How to Build Your First KNN Python Model in scikit-learn (K Nearest Neighbors) (21:15)
+
+How to Build Your First Decision Tree in Python (scikit-learn) (15:13)
+
+Random Forest Algorithm Explained with Python and scikit-learn (11:49)
+
+Mastering Support Vector Machines with Python and Scikit-Learn (12:47)
+
+Hands-On Machine Learning: Logistic Regression with Python and Scikit-Learn (16:46)
+
+Naive Bayes Classifier: A Practical Tutorial with Scikit-Learn (17:55)
+
+🔄 Step 3: Building and Optimizing Pipelines
+Building a Machine Learning Pipeline with Python and Scikit-Learn | Step-by-Step Tutorial (29:11)
+
+A Comprehensive Guide to Cross-Validation with Scikit-Learn and Python (24:55)
+
+Hands-On Hyperparameter Tuning with Scikit-Learn: Tips and Tricks (18:35)
+
+🎯 Step 4: Portfolio Projects for Practice
+Beginner Data Science Portfolio Project Walkthrough (Kaggle Titanic Part 1) (2:20:17)
+
+Beginner Data Science Portfolio Project Walkthrough (Kaggle Titanic Part 2) (15:15)
+
+📊 Step 5: Linear and Advanced Regression Techniques
+Hands-On Linear Regression with Scikit-Learn in Python (Beginner Friendly) (22:37)
+
+Mastering Multiple Linear Regression in Scikit-Learn: A Step-by-Step Guide (25:58)
+
+Lasso Regression with Scikit-Learn (Beginner Friendly) (17:47)
+
+Mastering Ridge Regression in Python with scikit-learn (14:23)
+
+Elastic Net Regression in scikit-learn: Balancing L1 and L2 Optimizations (17:55)
+
+Random Forest Regressor in Python: A Step-by-Step Guide (15:21)
+
+Mastering Gradient Boosting Regressor: A Comprehensive Tutorial (17:26)
+
+🚀 Step 6: Advanced Ensemble Learning Techniques
+Boost Your Machine Learning Skills with AdaBoost in Python | Scikit-Learn Tutorial (20:29)
+
+Gradient Boosting in Scikit-Learn: Hands-On Tutorial (9:57)
+
+Extra Trees Classifier in Scikit-Learn: An In-Depth Walkthrough (9:51)
+
+Mastering Voting Classifier in Scikit-Learn: A Python Machine Learning Tutorial (14:38)
+
+Python Stacking Regressor Mastery: From Basics to Advanced Tips (46:56)
+
+🧠 Step 7: Dimensionality Reduction and Imbalanced Data
+PCA Analysis in Python Explained (Scikit - Learn) (16:11)
+
+How to handle imbalanced datasets in Machine Learning (Python) (47:25)
+
+⚡ Step 8: Hyperparameter Tuning and Optimization
+Mastering Hyperparameter Tuning with Optuna: Boost Your Machine Learning Models! (28:15)
+
+🕵️‍♂️ Step 9: Anomaly and Outlier Detection
+Mastering Isolation Forest in Python: Anomaly Detection with Scikit-Learn (28:02)
+
+Mastering Outlier Detection with LOF (Local Outlier Factor) in Python (25:16)
+
+Mastering Novelty Detection Using LOF in Python (Scikit-Learn) (7:43)
+
+Mastering Gaussian Mixture Models with Scikit-Learn in Python (23:38)
+
+🧩 Step 10: Miscellaneous and Advanced Concepts
+Multicollinearity in Machine Learning: What It Is and How to Fix It (37:51)
+
+🏆 Step 11: Final Project for Mastery
+Data Science Beginner Project: Kaggle House Prices Regression Analysis (Full Walkthrough) (2:56:07)
